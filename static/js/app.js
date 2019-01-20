@@ -24,7 +24,7 @@ data.forEach(function(alienSighting) {
     });
 }); 
 
-// type="submit" section
+// html id changed to id="submit" section
 // 09-Par_Form_Filter
 // Select the submit button
 var submit = d3.select("#submit");
